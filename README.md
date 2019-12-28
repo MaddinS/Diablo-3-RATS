@@ -1,5 +1,6 @@
 # Diablo 3 RATS
  External Tool for RATS Elite Target with max Essence
+Resolution 1920x1080 (you can change it to your Resolution; just need to calculate Coodinates to your Resolution)
 
 This is a free Tool written in AutoIT for easy targeting Elites (Yellow and Blues) for Rathma Runs.
 In order to run this tool you need to have AutoIT installed on your Computer.
